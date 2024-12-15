@@ -1,4 +1,4 @@
 CREDITS: 10
-API_KEY: your_api_key
-API_PWD: your_api_secret
-APP_ID: your_app_id
+API_KEY: djFxjDfm
+API_PWD: VTsNCkNr
+APP_ID: CAGpofFP
