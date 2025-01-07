@@ -1,2 +1,2 @@
-LTC:ltc_wallet_address_here
-USDT:usdt_wallet_address_here
+LTC:LgLaDH5A2vyfKjiPqYiWJD65YLCkH7neBD
+USDT:TFJvorsFjAUzAmgwj4DKhTq9bCjpfSGusJ
