@@ -1,0 +1,2 @@
+LTC:ltc_wallet_address_here
+USDT:usdt_wallet_address_here
